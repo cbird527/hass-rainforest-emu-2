@@ -1,10 +1,10 @@
 {
-  "domain": "rainforest_emu_2",
-  "name": "Rainforest EMU-2",
-  "documentation": "https://github.com/ryanwinter/hass-rainforest-emu-2",
-  "issue_tracker": "https://github.com/ryanwinter/hass-rainforest-emu-2/issues",
+  "domain": "rainforest_emu_2-test",
+  "name": "Rainforest EMU-2-test",
+  "documentation": "https://github.com/cbird527/hass-rainforest-emu-2-test",
+  "issue_tracker": "https://github.com/cbird527/hass-rainforest-emu-2-test/issues",
   "dependencies": ["usb"],
-  "codeowners": ["@ryanwinter"],
+  "codeowners": ["@cbird527"],
   "requirements": [
     "pyserial-asyncio==0.6"
   ],
